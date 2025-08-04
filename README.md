@@ -126,5 +126,5 @@ Digite uma opção:
 ---
 
 **Desenvolvido para:** Universidade Federal do Espírito Santo (UFES)  
-**Disciplina:** Métodos Numéricos  
+**Disciplina:** Algoritmos Numéricos  
 **Período:** 2025/1
